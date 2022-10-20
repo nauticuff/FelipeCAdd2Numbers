@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlo\\Documents\\AssignmentsOnGitHub\\cfelipeminichallenge2\\cfelipeminichallenge2.csproj": {}
+    "C:\\Users\\rsgoo\\felipecAddTwoNumbers\\cfelipeminichallenge2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlo\\Documents\\AssignmentsOnGitHub\\cfelipeminichallenge2\\cfelipeminichallenge2.csproj": {
+    "C:\\Users\\rsgoo\\felipecAddTwoNumbers\\cfelipeminichallenge2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlo\\Documents\\AssignmentsOnGitHub\\cfelipeminichallenge2\\cfelipeminichallenge2.csproj",
+        "projectUniqueName": "C:\\Users\\rsgoo\\felipecAddTwoNumbers\\cfelipeminichallenge2.csproj",
         "projectName": "cfelipeminichallenge2",
-        "projectPath": "C:\\Users\\carlo\\Documents\\AssignmentsOnGitHub\\cfelipeminichallenge2\\cfelipeminichallenge2.csproj",
-        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlo\\Documents\\AssignmentsOnGitHub\\cfelipeminichallenge2\\obj\\",
+        "projectPath": "C:\\Users\\rsgoo\\felipecAddTwoNumbers\\cfelipeminichallenge2.csproj",
+        "packagesPath": "C:\\Users\\rsgoo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rsgoo\\felipecAddTwoNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\rsgoo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
